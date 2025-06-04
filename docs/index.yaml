@@ -1,3 +1,28 @@
 apiVersion: v1
-entries: {}
-generated: "2025-06-04T16:44:07.492892279+05:30"
+entries:
+  liferay:
+  - apiVersion: v2
+    appVersion: "7.4"
+    created: "2025-06-04T17:03:14.935070688+05:30"
+    description: A Helm chart for Liferay Portal with MySQL database
+    digest: c32c62e5351978eb02b3a3fee5af5648643dab419d4c385d280ba31990628672
+    home: https://liferay.com
+    icon: https://www.liferay.com/o/liferay-theme/images/favicon.ico
+    keywords:
+    - liferay
+    - portal
+    - cms
+    - java
+    - mysql
+    - database
+    maintainers:
+    - email: sprajapati@surekhatech.com
+      name: Srujal Prajapati
+    name: liferay
+    sources:
+    - https://github.com/liferay/liferay-portal
+    type: application
+    urls:
+    - https://srujal0610.github.io/liferay-helm-chart/liferay-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-06-04T17:03:14.908965478+05:30"
